@@ -9,7 +9,7 @@
     {
       "id": 2,
       "title": "Homework Tasks for Today",
-      "body": "- Complete math assignment\n- Prepare presentation slides\n- Study for history test",
+      "body": "Complete math assignment Prepare presentation slides Study for history test",
       "category": "home"
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": 4,
       "title": "House Chores Checklist",
-      "body": "- Vacuum the living room\n- Water the plants\n- Do laundry",
+      "body": "Vacuum the living room Water the plants Do laundry",
       "category": "home"
     },
     {
